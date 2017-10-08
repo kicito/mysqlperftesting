@@ -1,0 +1,5 @@
+1. Connection
+    Single connection for each call
+2. Pool
+    One pool for each call
+    One pool for application call
